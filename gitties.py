@@ -1,7 +1,15 @@
 def introducer():
     print("Hello Gitty")
-introducer()
+
 
 def joke():
     print("Git Majonez")
 joke()
+
+
+def add(x, y):
+    print(x + y)
+
+
+introducer()
+add(5, 6)
